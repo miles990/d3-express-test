@@ -1,0 +1,15 @@
+{
+  "name": "d3-express-test",
+  "version": "0.0.0",
+  "authors": [
+    "AlexLee <alexlee7171@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
